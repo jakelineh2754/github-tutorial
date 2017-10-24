@@ -1,12 +1,12 @@
 # GitHub Tutorial
 
-_by Jakeline Hernandez
+_by Jakeline Hernandez_
 
 ---
 ## Git vs. GitHub
  **GitHub:** is usually used to store code that you are pushing up to the cloud. In github you are allowed to fork and clone and collaborate on others projects.Using github does require you to use git.
  
- **Git:** Git is used to store any snapshots of code that you want to use.gti doesnot require you to use github. You can also create a directory/file what this does is it creates a repository where you can add any files.
+ **Git:** Git is used to store any snapshots of code that you want to use. Git does not require you to use github. You can also create a directory/file, what this does is it creates a repository where you can add any files.
  
    
 
@@ -31,18 +31,18 @@ _by Jakeline Hernandez
 
 ---
 ## Repository Setup
-
+USE SLIDES
 
 
 ---
 ## Workflow & Commands
 
 
-
+PUT OYUR NOTES HERE THAT U HAVE BEEN TAKING
 ---
 ## Rolling Back Changes
 
- **Rolling Back:** basically rolling back changes consists of editing,comiting,adding and pushing
+ **Rolling Back:** basically rolling back changes consists of editing, comiting, adding and pushing.(explain what each is and how to do it.)
   
    **Adding:**
    
