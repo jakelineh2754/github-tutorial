@@ -1,12 +1,12 @@
 # GitHub Tutorial
 
-_by Jakeline Hernandez
+_by Jakeline Hernandez_
 
 ---
 ## Git vs. GitHub
  **GitHub:** is usually used to store code that you are pushing up to the cloud. In github you are allowed to fork and clone and collaborate on others projects.Using github does require you to use git.
  
- **Git:** Git is used to store any snapshots of code that you want to use.gti doesnot require you to use github. You can also create a directory/file what this does is it creates a repository where you can add any files.
+ **Git:** Git is used to store any snapshots of code that you want to use. Git does not require you to use github. You can also create a directory/file, what this does is it creates a repository where you can add any files.
  
    
 
@@ -55,9 +55,6 @@ now your file would be in your github account by going to your _Profile_ and the
 
 **git pull** bring any chances from your remote repository to your local repository
 [![Screen_Shot_2017-10-25_at_11.11.19_AM.png](https://s1.postimg.org/57rq6yfvb3/Screen_Shot_2017-10-25_at_11.11.19_AM.png)](https://postimg.org/image/5wkzqz3ebf/)
-
-
-
 
 ---
 ## Rolling Back Changes
